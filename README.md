@@ -1,1 +1,3 @@
 # Sentiment-Analysis-using-LSTM
+
+The field of Natural language processing converts text to signals which are understandable by the machine. It allows machines to understand how human speaks. Real-world applications include automatic text summarization, sentiment analysis, topic extraction, named entity recognition, parts-of-speech tagging, relationship extraction and stemming. We use NLP for text mining, machine translation ,and automated question answering. In this project, we focus on Sentiment Analysis that helps us analyze people's sentiments, emotions, and evaluations from written language. The implementation of NLP models to identify a given set of words as positive sentiment or negative sentiment
